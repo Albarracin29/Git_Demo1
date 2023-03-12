@@ -29,7 +29,7 @@ class DatabaseSeeder extends Seeder
         'desc'      =>  'The kutiyapi, or kudyapi, is a Philippine two-stringed, fretted boat-lute.
                          It is four to six feet long with nine frets made of hardened beeswax.
                          The instrument is carved out of solid soft wood such as that from the jackfruit tree.',
-     'img'       =>  'assets/img/kudyapi.jpg'
+         'img'       =>  'assets/img/kudyapi.jpg'
         ]);
 
 
